@@ -1,0 +1,32 @@
+.context {
+    text-align: start;
+}
+.Wall {
+    font-size: 30px;
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+body {
+    background-image: url(https://media.discordapp.net/attachments/1150467961992269964/1259477540616015892/16_20240707145356.png?ex=668bd35d&is=668a81dd&hm=c3356dfbcb701ef2a3304196f2c589a6cc14847330569718d612902225d92d29&=&format=webp&quality=lossless&width=1012&height=456);
+    background-size: 1500px;
+    
+}
+.discord {
+    background-color: black;
+    border: black;
+}
+.join {
+    background-color: black;
+    border: black;
+}
+.greytiger {
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.vasya {
+    color: white;
+    font-size: 25px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
